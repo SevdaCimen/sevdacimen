@@ -6,18 +6,16 @@
 
 
 
-🌱 I'm a mobile application developer with four years of hands-on experience working across various roles within the tech industry. My expertise lies in React Native, a technology that I am truly passionate about. I have had the privilege of contributing to both small startups and large corporations, constantly adapting to industry trends and incorporating innovative solutions into my work. I take pride in my ability to transform creative ideas into user-friendly applications that add genuine value to users.
+🌱  Mobile Application Developer focusing on React Native since 2018. With nearly 8 years in the industry, I enjoy the journey of turning complex ideas into simple, user-friendly mobile experiences.
 
-
+I've had the opportunity to work with both startups and large corporations, helping them build scalable solutions while constantly learning and adapting to the ever-evolving mobile landscape.
 
 
 - 🚀 Passionate about mobile app development, specializing in React-Native.
 - 🌟 Exploring the world of React-Native and creating innovative mobile solutions.
 - 📱 Building exciting mobile apps using React-Native technology.
-- 💡 Turning ideas into reality through React-Native app development.
 - 🎯 Focused on mastering React-Native for cutting-edge mobile experiences.
 - 🌐 Connecting people through mobile apps with React-Native.
-- 📚 I'm continuously expanding my skills in various mobile programming languages to stay versatile in the ever-evolving tech landscape.
 - 📝 I share my experiences and insights in the field of mobile app development through articles on [my Medium profile](https://medium.com/@sevdaimen).
 
 
@@ -27,8 +25,4 @@ _Social Media_
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sevdacimen/)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sevdaimen)
 
-
-
-[![Sevda's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sevdacimen&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark#gh-dark-mode-only)](https://github.com/sevdacimen/github-readme-stats#gh-dark-mode-only)
-[![Sevda's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sevdacimen&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark#gh-light-mode-only)](https://github.com/sevdacimen/github-readme-stats#gh-light-mode-only)
 
